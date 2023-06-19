@@ -1,0 +1,13 @@
+[
+    {
+        "name": "jhon12",
+        "email": "john@gmail.com",
+        "hashedPassword": "$2a$10$hG2QNiTK8iWCTlGJ4Qyiw.DPCNV33o8wrdQ4jZXbxT.ZklCh.r9N6"
+    },
+    {
+        "name": "riddhi",
+        "email": "riddhi@gmail.com",
+        "hashedPassword": "$2a$10$s2QAvPBVIHeKpPdl0ss8yu9.GTlGLJ6.noWBAYkCVe4PSrUdocMWy"
+    }
+    
+]
